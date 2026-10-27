@@ -1,8 +1,10 @@
 # Mortgage denial models (HMDA 2024)
 
-Logistic regression of mortgage denial on HMDA 2024 (home-purchase, first-lien, site-built, principal residence; 3,208,974 loans), fit in both scikit-learn and Spark MLlib with identical features. Includes a gradient-boosting benchmark.
+Logistic regression of mortgage denial on HMDA 2024
 
-Report: [`report/Mortgage_Denial_Models_Report.pdf`](report/Mortgage_Denial_Models_Report.pdf). Original assignment: `Big_Data_Analysis_Final_Project.pdf`. Spec: `MODEL_PLAN.md`.
+Report: [`report/Mortgage_Denial_Models_Report.pdf`](report/Mortgage_Denial_Models_Report.pdf)
+Original assignment: [`Big_Data_Analysis_Final_Project.pdf`](Big_Data_Analysis_Final_Project.pdf)
+Spec: [`MODEL_PLAN.md`](MODEL_PLAN.md)
 
 ## Key results
 
