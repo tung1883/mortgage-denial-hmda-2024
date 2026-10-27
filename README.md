@@ -2,8 +2,8 @@
 
 Logistic regression of mortgage denial on HMDA 2024
 
-- Report: [`report/Mortgage_Denial_Models_Report.pdf`](report/Mortgage_Denial_Models_Report.pdf)
-- Original assignment: [`Big_Data_Analysis_Final_Project.pdf`](Big_Data_Analysis_Final_Project.pdf)
+- Report: [`report/report.pdf`](report/report.pdf)
+- Original assignment: [`problem.pdf`](problem.pdf)
 - Spec: [`MODEL_PLAN.md`](MODEL_PLAN.md)
 
 ## Key results
@@ -26,8 +26,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Needs a JDK for Spark. Download the 2024 national loan-level CSV (4.6 GB) to `data/raw/hmda_2024.csv`:
-`https://ffiec.cfpb.gov/v2/data-browser-api/view/nationwide/csv?years=2024` (or set `HMDA_RAW_CSV`).
+Needs a JDK for Spark. Download the [2024 national loan-level CSV](https://ffiec.cfpb.gov/v2/data-browser-api/view/nationwide/csv?years=2024) (4.6 GB) to `data/raw/hmda_2024.csv`.
 
 ```powershell
 $py = ".\.venv\Scripts\python.exe"
