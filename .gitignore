@@ -1,0 +1,9 @@
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+tools/
+results/*.parquet
+report/latex/main.pdf
+report/Mortgage_Denial_Models.pdf
+data/run_all.log

@@ -1,0 +1,10 @@
+{
+  "rows_analysis": 3208974,
+  "rows_joined": 3208974,
+  "test_fraction": 0.20000006232521672,
+  "denial_rate_train": 0.08828718215597743,
+  "denial_rate_test": 0.08828675823276903,
+  "pass_rows_equal": true,
+  "pass_test_fraction": true,
+  "pass_denial_rate": true
+}

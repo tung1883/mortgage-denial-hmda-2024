@@ -1,0 +1,6 @@
+step,rows,dropped,proposal_target,pct_diff_vs_proposal
+all_rows,12259199,,,
+action_taken_1_2_3,8661779,3597420.0,8661779.0,0.0
+excl_reverse_openend_business,6325493,2336286.0,6325493.0,0.0
+home_purchase_first_lien,3611998,2713495.0,3611998.0,0.0
+site_built,3208974,403024.0,3208974.0,0.0

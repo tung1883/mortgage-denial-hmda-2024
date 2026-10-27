@@ -1,0 +1,9 @@
+variable,loan_type,first_bin_with_jump,jump_pp,definition
+DTI,Conventional,50-60,59.50764736328221,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+DTI,FHA,>60,85.61188442285147,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+DTI,VA,>60,32.81672475475682,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+DTI,USDA,43-49,15.461747460150727,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+CLTV,Conventional,,,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+CLTV,FHA,,,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+CLTV,VA,>100,18.877800924204386,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"
+CLTV,USDA,>100,6.761563730826299,"first bin whose adjusted rate exceeds the previous bin's by >5 percentage points (Missing excluded); descriptive, not a statistical test"

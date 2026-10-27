@@ -1,0 +1,14 @@
+\begin{tabular}{@{}p{6.4cm}ccccccc@{}}
+\toprule
+ & A & B & C & D & E & F & G \\
+\midrule
+Loan type, DTI bin, CLTV bin, log income, income-missing flag, log loan amount & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} \\
+DTI$\times$CLTV cross (rare cells pooled) &  & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} &  \\
+Loan type $\times$ DTI, loan type $\times$ CLTV &  &  & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} & \textcolor{navy}{$\bullet$} &  \\
+Finer DTI (each integer 36--49) &  &  &  & \textcolor{navy}{$\bullet$} &  &  &  \\
+State dummies &  &  &  &  & \textcolor{navy}{$\bullet$} &  &  \\
+Drop rows with CLTV above 150 &  &  &  &  &  & \textcolor{navy}{$\bullet$} &  \\
+Learner & LR & LR & LR & LR & LR & LR & GBM \\
+Fit in & sk+Sp & sk+Sp & sk+Sp & sk+Sp & sk+Sp & sk+Sp & sk \\
+\bottomrule
+\end{tabular}
