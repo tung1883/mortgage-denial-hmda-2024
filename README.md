@@ -2,9 +2,9 @@
 
 Logistic regression of mortgage denial on HMDA 2024
 
-Report: [`report/Mortgage_Denial_Models_Report.pdf`](report/Mortgage_Denial_Models_Report.pdf)
-Original assignment: [`Big_Data_Analysis_Final_Project.pdf`](Big_Data_Analysis_Final_Project.pdf)
-Spec: [`MODEL_PLAN.md`](MODEL_PLAN.md)
+- Report: [`report/Mortgage_Denial_Models_Report.pdf`](report/Mortgage_Denial_Models_Report.pdf)
+- Original assignment: [`Big_Data_Analysis_Final_Project.pdf`](Big_Data_Analysis_Final_Project.pdf)
+- Spec: [`MODEL_PLAN.md`](MODEL_PLAN.md)
 
 ## Key results
 
