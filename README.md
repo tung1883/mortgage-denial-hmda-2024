@@ -4,7 +4,6 @@ Logistic regression of mortgage denial on HMDA 2024
 
 - Report: [`report/report.pdf`](report/report.pdf)
 - Original assignment: [`problem.pdf`](problem.pdf)
-- Spec: [`MODEL_PLAN.md`](MODEL_PLAN.md)
 
 ## Key results
 
